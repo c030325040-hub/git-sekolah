@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.5775, -3.2940]
+      },
+      "properties": {
+        "npsn": "30304107",
+        "nama": "SD Negeri Kuin Utara 6",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "alamat": "Jl. Kuin Utara Gg. SMP 15",
+        "kecamatan": "Banjarmasin Utara",
+        "telepon": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.6073, -3.3213]
+      },
+      "properties": {
+        "npsn": "30304126",
+        "nama": "SD Negeri Kuripan 1",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "alamat": "Jl. Kuripan Komplek Cempaka Putih Gg. 12 No. 30 RT 16",
+        "kecamatan": "Banjarmasin Timur",
+        "telepon": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.5976, -3.3044]
+      },
+      "properties": {
+        "npsn": "30304082",
+        "nama": "SD Negeri Percontohan Surgi Mufti 5",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "alamat": "Jl. Mesjid Jami Simpang Makam Pangeran Antasari",
+        "kecamatan": "Banjarmasin Utara",
+        "telepon": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.5825, -3.3285]
+      },
+      "properties": {
+        "npsn": "30304134",
+        "nama": "SD Negeri Mawar 2",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "alamat": "Jl. Drs. H. Djok Mentaya RT. 10 No. 02",
+        "kecamatan": "Banjarmasin Tengah",
+        "telepon": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.5817, -3.3391]
+      },
+      "properties": {
+        "npsn": "30304203",
+        "nama": "SMP Negeri 4 Banjarmasin",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "alamat": "Jl. Teluk Tiram Darat No. 01",
+        "kecamatan": "Banjarmasin Barat",
+        "telepon": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.5833, -3.3052]
+      },
+      "properties": {
+        "npsn": "30304204",
+        "nama": "SMP Negeri 5 Banjarmasin",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "alamat": "Jl. Belitung Darat RT. 19 No. 132",
+        "kecamatan": "Banjarmasin Barat",
+        "telepon": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.6000, -3.3187]
+      },
+      "properties": {
+        "npsn": "30304191",
+        "nama": "SMP Negeri 6 Banjarmasin",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "alamat": "Jl. Veteran Gang Sempati No. 06 RT. 30",
+        "kecamatan": "Banjarmasin Tengah",
+        "telepon": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.6159, -3.3196]
+      },
+      "properties": {
+        "npsn": "30305037",
+        "nama": "SMP Negeri 7 Banjarmasin",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "alamat": "Jl. Veteran Km. 4,5 RT. 30 No. 99",
+        "kecamatan": "Banjarmasin Timur",
+        "telepon": null
+      }
+    }
+  ]
+}
