@@ -19,6 +19,7 @@
     </button>
 
     <span id="jumlah"></span>
+    <span> | SIG Sekolah - Versi Terbaru</span>
 </div>
 
 <div id="peta" class="peta"></div>
